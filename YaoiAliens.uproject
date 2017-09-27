@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D37BFBB2-4CD6-2E6A-1AC3-F693CDABC8B3}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "YaoiAliens",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
